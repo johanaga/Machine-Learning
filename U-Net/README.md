@@ -1,6 +1,6 @@
 # U-Net
 
-**Links:** https://www.kaggle.com/c/carvana-image-masking-challenge/overview
+**Dataset:** https://www.kaggle.com/c/carvana-image-masking-challenge/overview
 
 **Overview:** Semantic Segmentation using U-Net architecture. Trained on Carvana dataset from Kaggle.
 
