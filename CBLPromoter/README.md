@@ -5,7 +5,7 @@
  - **Eukaryotic Promoter Database:** https://epd.epfl.ch//index.php
 
 ###### Overview:
- - **What:** CBLPromoter (CNN-BiLSTM Promoter) is a promoter DNA sequence classifier that distinguishes promoters from non-promoters.
+ - **CBLPromoter** is DNA promoter sequence classifier that distinguishes promoters from non-promoters based off of a CNN-BiLSTM architecture.
 
 ###### Motivation: 
  - Due to the important role of the promoters in gene transcription, accurate prediction of promoter sites becomes a required step in gene expression, patterns interpretation, and building and understanding the functionality of genetic regulatory networks.
