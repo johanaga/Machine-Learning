@@ -17,7 +17,8 @@
 ###### Results/Errors:
  - Current model is only configured to classify non-TATA box promoter sequences.
  - Model is still overfitting quite a bit and producing a very high validation loss. More data, a learning rate scheduler, and finer hyperparamter tuning would certainly help to regularize the model better. Additionally, Keras Tuner was used to find the current model hyperparameters.
- - Recall is very low, Accuracy and Precision looking adequate 
+ - Recall is very low, Accuracy and Precision looking adequate
+ - Validation loss decreases then increases which is a sign of overfitting and needs to be addressed in future model versions 
 
 ###### Comparison:
 | Promoter       | Method          | Precision | Recall |
