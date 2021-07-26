@@ -20,7 +20,7 @@
  - Recall is very low, Accuracy and Precision looking adequate 
 
 ###### Comparison:
-| Organism       | Method          | Precision | Recall |
+| Promoter       | Method          | Precision | Recall |
 | :---           |    :---         | :---      |   :--- |
 |                | CNNProm         | 0.58      | 0.83   |
 |                | DeePromoter     | 0.92      | 0.95   |
