@@ -19,3 +19,12 @@
  - Model is still overfitting quite a bit and producing a very high validation loss. More data, a learning rate scheduler, and finer hyperparamter tuning would certainly help to regularize the model better. Additionally, Keras Tuner was used to find the current model hyperparameters.
  - Recall is very low, Accuracy and Precision looking adequate 
 
+###### Comparison:
+| Organism       | Method          | Precision | Recall |
+| :---           |    :---         | :---      |   :--- |
+|                | CNNProm         | 0.58      | 0.83   |
+|                | DeePromoter     | 0.92      | 0.95   |
+| Human non-TATA | **CBLPromoter** | **0.78**  |**0.58**|
+|                | CNNProm         | 0.54      | 0.86   |
+|                | DeePromoter     | 0.91      | 0.90   |
+| Mouse non-TATA | **CBLPromoter** | **0.80**  |**0.58**|
