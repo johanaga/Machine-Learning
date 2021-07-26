@@ -24,7 +24,7 @@
 | :---           |    :---         | :---      |   :--- |
 |                | CNNProm         | 0.58      | 0.83   |
 |                | DeePromoter     | 0.92      | 0.95   |
-| Human non-TATA | **CBLPromoter** | **0.78**  |**0.58**|
+| Human non-TATA | **CBLPromoter** | **0.77**  |**0.61**|
 |                | CNNProm         | 0.54      | 0.86   |
 |                | DeePromoter     | 0.91      | 0.90   |
-| Mouse non-TATA | **CBLPromoter** | **0.80**  |**0.58**|
+| Mouse non-TATA | **CBLPromoter** | **0.79**  |**0.61**|
